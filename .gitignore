@@ -1,0 +1,26 @@
+# Object files
+*.o
+
+# Binary files
+encrypt_decrypt
+cryption
+
+# Build directory
+build/
+bin/
+
+# Compiler generated files
+*.a
+*.so
+*.dSYM
+
+# IDE-specific files
+*.vscode/
+*.idea/
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Other files
+*.log
