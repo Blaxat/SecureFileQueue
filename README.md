@@ -1,2 +1,2 @@
-# encrypty
-Encrypty: A file encryptor and decryptor writte in C++
+# SecureFileQueue
+SecureFileQueue: A multiprocessing file encryptor and decryptor writte in C++
